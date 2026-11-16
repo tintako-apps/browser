@@ -2,7 +2,7 @@
 
 # Browser
 
-A calm web browser for the Mudita Kompakt, made for E Ink. Pages turn screen by screen, and there are no Google services.
+A calm web browser made for E Ink. Pages turn screen by screen, and there are no Google services.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -36,4 +36,4 @@ Browser uses Mozilla GeckoView 159.0, unmodified, under the [Mozilla Public Lice
 AdGuard AdBlocker isn't part of this app: you add it yourself from Mozilla Add-ons. It is a separate add-on made by AdGuard, and their terms and privacy policy apply to it. Browser is an independent app, not connected with Mozilla or AdGuard.
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
