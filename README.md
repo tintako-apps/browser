@@ -2,15 +2,15 @@
 
 # Browser
 
-A calm web browser made for E Ink. Pages turn screen by screen, and there are no Google services.
+A calm web browser made for E Ink devices. Pages turn screen by screen, and there are no Google services.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
 
 ## What it can do
 - **Page turning:** read the web screen by screen, with on-screen arrows or the volume keys
 - **Reader mode:** full screen, only the text and pictures of an article, with text size and bookmark on a pull-out bar
 - **Top row:** Tabs on the left, the page's name in the middle with refresh, and Settings on the right. Tap the name to type an address or a search
-- **Tabs:** up to three, regular or private, with QR code, bookmark and reader mode for the page you're on
+- **Tabs:** up to three, classic or private, with QR code, bookmark and reader mode for the page you're on
 - **Your own search engine:** none is built in, you type the one you want in Settings
 - **Bookmarks:** saved pages can be read offline in reader mode
 - **History:** off by default, kept for 30 days on the phone only
@@ -33,7 +33,11 @@ A calm web browser made for E Ink. Pages turn screen by screen, and there are no
 ## Third-party software
 Browser uses Mozilla GeckoView 159.0, unmodified, under the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/). Its source code is at [archive.mozilla.org](https://archive.mozilla.org/pub/firefox/releases/159.0/source/). The app also uses AndroidX and Jetpack Compose, Kotlin, OkHttp, ZXing and Readability4J (Apache 2.0), jsoup and Tabler Icons (MIT) and the Lato font (SIL OFL 1.1); the full licence texts are in the app under About.
 
-AdGuard AdBlocker isn't part of this app: you add it yourself from Mozilla Add-ons. It is a separate add-on made by AdGuard, and their terms and privacy policy apply to it. Browser is an independent app, not connected with Mozilla or AdGuard.
+AdGuard AdBlocker isn't part of this app: you add it yourself from Mozilla Add-ons. It is a separate add-on made by AdGuard, and their terms and privacy policy apply to it. Browser is an independent app by Tintako, not connected with Mozilla or AdGuard.
+
+Full texts: [Privacy](PRIVACY.md) · [Terms of use](TERMS.md) · [Licences](LICENSES.md)
+
+Made by Tintako · app@tintako.com
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
+Download the latest APK from [Releases](../../releases/latest) and install it on your device.
