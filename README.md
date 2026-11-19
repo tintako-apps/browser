@@ -1,8 +1,8 @@
-<img src="icon.svg" width="128" alt="Browser icon">
+<img src="icon.svg" width="128" alt="Ink Browser icon">
 
-# Browser
+# Ink Browser
 
-A calm web browser made for E Ink devices. Pages turn screen by screen, and there are no Google services.
+Ink Browser is a calm web browser made for E Ink devices. Until version 1.1 it was called Browser. Pages turn screen by screen, and there are no Google services.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
 
@@ -31,9 +31,9 @@ A calm web browser made for E Ink devices. Pages turn screen by screen, and ther
 - Wake lock and audio settings: for video and audio on web pages
 
 ## Third-party software
-Browser uses Mozilla GeckoView 159.0, unmodified, under the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/). Its source code is at [archive.mozilla.org](https://archive.mozilla.org/pub/firefox/releases/159.0/source/). The app also uses AndroidX and Jetpack Compose, Kotlin, OkHttp, ZXing and Readability4J (Apache 2.0), jsoup and Tabler Icons (MIT) and the Lato font (SIL OFL 1.1); the full licence texts are in the app under About.
+Ink Browser uses Mozilla GeckoView 159.0, unmodified, under the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/). Its source code is at [archive.mozilla.org](https://archive.mozilla.org/pub/firefox/releases/159.0/source/). The app also uses AndroidX and Jetpack Compose, Kotlin, OkHttp, ZXing and Readability4J (Apache 2.0), jsoup and Tabler Icons (MIT) and the Lato font (SIL OFL 1.1); the full licence texts are in the app under About.
 
-AdGuard AdBlocker isn't part of this app: you add it yourself from Mozilla Add-ons. It is a separate add-on made by AdGuard, and their terms and privacy policy apply to it. Browser is an independent app by Tintako, not connected with Mozilla or AdGuard.
+AdGuard AdBlocker isn't part of this app: you add it yourself from Mozilla Add-ons. It is a separate add-on made by AdGuard, and their terms and privacy policy apply to it. Ink Browser is an independent app by Tintako, not connected with Mozilla or AdGuard.
 
 Full texts: [Privacy](PRIVACY.md) · [Terms of use](TERMS.md) · [Licences](LICENSES.md)
 

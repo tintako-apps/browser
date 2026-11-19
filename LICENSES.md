@@ -1,6 +1,6 @@
-# Browser: Open source licences
+# Ink Browser: Open source licences
 
-Browser 1.1 uses these open source works. The full licence texts are also in the app, under Settings, About, Open source licences.
+Ink Browser 1.1 uses these open source works. The full licence texts are also in the app, under Settings, About, Open source licences.
 
 | Component | Version | Licence | Source |
 |---|---|---|---|
@@ -18,6 +18,6 @@ Browser 1.1 uses these open source works. The full licence texts are also in the
 
 GeckoView is used unchanged. Its licence is at https://www.mozilla.org/MPL/2.0/ and its source code, for exactly this version, at the address in the table. The licences of GeckoView's own parts are shown in the app at about:license.
 
-Browser's own code is not published under an open source licence.
+Ink Browser's own code is not published under an open source licence.
 
-AdGuard AdBlocker is not part of Browser; you add it yourself from Mozilla Add-ons, under AdGuard's own licence.
+AdGuard AdBlocker is not part of Ink Browser; you add it yourself from Mozilla Add-ons, under AdGuard's own licence.

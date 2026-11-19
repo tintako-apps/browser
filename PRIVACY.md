@@ -1,9 +1,9 @@
-# Browser: Privacy Policy
+# Ink Browser: Privacy Policy
 
-Browser is made by Tintako · Croatia · app@tintako.com. This policy covers Browser 1.1 and later.
+Ink Browser is made by Tintako · Croatia · app@tintako.com. This policy covers Ink Browser 1.1 and later.
 
 ## The short version
-Browser has no account, no analytics and no server of its own. What it keeps stays on your device. It only connects to the sites you open, the search engine you type in yourself, and, if you choose to add it, AdGuard.
+Ink Browser has no account, no analytics and no server of its own. What it keeps stays on your device. It only connects to the sites you open, the search engine you type in yourself, and, if you choose to add it, AdGuard.
 
 ## Who is responsible
 Tintako, app@tintako.com.
@@ -27,8 +27,8 @@ Location, camera, microphone and notifications are always blocked for websites.
 
 ## What leaves, and only when you ask
 - When you open a page, that site receives the usual request a browser sends, including your IP address.
-- When you search, the words go to the search engine you typed in yourself. Browser has no search engine built in.
-- When you add or update AdGuard, Browser fetches it from Mozilla's site.
+- When you search, the words go to the search engine you typed in yourself. Ink Browser has no search engine built in.
+- When you add or update AdGuard, Ink Browser fetches it from Mozilla's site.
 
 ## Who else receives anything
 - The websites you open, under their own privacy policies.
@@ -39,13 +39,13 @@ Location, camera, microphone and notifications are always blocked for websites.
 Nothing else is sent anywhere, and nothing is sold or shared for advertising.
 
 ## Legal basis (EU/EEA and UK)
-Browser itself does not send your data to Tintako. Requests to websites, your search engine, Mozilla and AdGuard happen because you ask for them, to provide what you asked for (Article 6(1)(b) GDPR).
+Ink Browser itself does not send your data to Tintako. Requests to websites, your search engine, Mozilla and AdGuard happen because you ask for them, to provide what you asked for (Article 6(1)(b) GDPR).
 
 ## Your rights
 Your data is on your device, so you control it: delete history, bookmarks, cookies and site data in the app, or uninstall it to remove everything. For data held by a website, search engine or AdGuard, contact them. You can ask Tintako any question at app@tintako.com and complain to your data protection authority.
 
 ## Children
-Browser is for a general audience. It does not knowingly collect anything from anyone, children included.
+Ink Browser is for a general audience. It does not knowingly collect anything from anyone, children included.
 
 ## Changes
 If this policy changes, the new version is published here and in the app, with the version it applies to.
