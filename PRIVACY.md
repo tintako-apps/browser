@@ -13,7 +13,7 @@ Everything below stays on your device and is never sent to Tintako:
 - Open tabs, so you can return to the page you were on. Private tabs are not kept.
 - Bookmarks, including the text of bookmarked pages so they can be read offline.
 - History, only if you turn it on in Settings. It is off by default and is kept for 30 days.
-- Your settings: language, text size, search engine, protection and per-site switches.
+- Your settings: text size, font, search engine, protection and per-site switches.
 - Cookies and site data, as in any browser. You can delete them in Settings, Protection.
 - Pictures and files you save, in your device's Pictures and Downloads folders.
 
@@ -36,7 +36,7 @@ Location, camera, microphone and notifications are always blocked for websites.
 - addons.mozilla.org (Mozilla), when you add or update AdGuard.
 - AdGuard's filter servers, once you have added AdGuard: it fetches its filter lists from them. AdGuard is a separate add-on made by AdGuard, and its own privacy policy applies: adguard.com/privacy.html
 
-Nothing else is sent anywhere, and nothing is sold or shared for advertising.
+Nothing else is sent anywhere, and nothing is sold or shared for advertising. The app sends no notifications.
 
 ## Legal basis (EU/EEA and UK)
 Ink Browser itself does not send your data to Tintako. Requests to websites, your search engine, Mozilla and AdGuard happen because you ask for them, to provide what you asked for (Article 6(1)(b) GDPR).

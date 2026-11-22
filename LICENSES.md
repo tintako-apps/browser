@@ -1,10 +1,10 @@
 # Ink Browser: Open source licences
 
-Ink Browser 1.1 uses these open source works. The full licence texts are also in the app, under Settings, About, Open source licences.
+Ink Browser 2.0 uses these open source works. The full licence texts are also in the app, under Settings, Open source licenses.
 
 | Component | Version | Licence | Source |
 |---|---|---|---|
-| Mozilla GeckoView (unmodified) | 159.0.20261102144711 | MPL 2.0 | https://archive.mozilla.org/pub/firefox/releases/159.0/source/ |
+| Mozilla GeckoView (unmodified) | 160.0.20261116130455 | MPL 2.0 | https://archive.mozilla.org/pub/firefox/releases/160.0/source/ |
 | AndroidX (Activity, AppCompat, CameraX, Lifecycle) | 1.9.3, 1.7.0, 1.4.1, 2.11.0 | Apache 2.0 | https://developer.android.com/jetpack/androidx |
 | Jetpack Compose (UI, Foundation, Material 3) | 1.11.0, 1.7.6, 1.3.1 | Apache 2.0 | https://developer.android.com/jetpack/compose |
 | Kotlin standard library | 2.4.20 | Apache 2.0 | https://github.com/JetBrains/kotlin |

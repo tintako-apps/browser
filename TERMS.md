@@ -9,7 +9,7 @@ Ink Browser is provided by Tintako · Croatia · app@tintako.com. By installing 
 Ink Browser is free. The Tip jar is voluntary and unlocks nothing.
 
 ## Your use of the app
-Use Ink Browser lawfully. What you open, save or post on the web is your responsibility. Do not copy, modify or redistribute the app itself except as the open source licences of its parts allow.
+Use Ink Browser lawfully: what you open, save or post on the web is your responsibility. Tintako is not responsible for the content of websites. Do not copy, modify or redistribute the app itself except as the open source licences of its parts allow.
 
 ## No warranty
 Ink Browser is provided as is, without warranty. Tintako is not liable for damage from using it, to the extent the law allows. This does not limit your statutory rights as a consumer in the EU.
